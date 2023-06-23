@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: test/Tests.kt
+  visible: false
+- name: build.gradle
+  visible: true
+- name: src/resources/application.conf
+  visible: true
+- name: src/testktorproject/Application.kt
+  visible: true
+- name: src/testktorproject/plugins/Routing.kt
+  visible: true
